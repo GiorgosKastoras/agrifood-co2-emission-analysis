@@ -72,8 +72,8 @@ The dataset utilized in this project consists of **one main table** with **31 co
 - **Fire-related emissions fluctuate over time, with peaks in humid tropical areas due to deforestation and wildfires.**
 - **In 1997, Indonesian peat fires released 0.81 to 2.57 gigatons of CO2, accounting for 40% of global fossil fuel emissions that year.**
 
-![Importance of Forestland](images/importance_forestland.png)
-![Fire-Related Emissions](images/fire_emissions_trends.png)
+![Importance of Forestland](Images/importance_forestland.png)
+![Fire-Related Emissions](Images/fire_emissions_trends.png)
 
 ---
 
